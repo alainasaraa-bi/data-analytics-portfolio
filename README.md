@@ -3,7 +3,7 @@
 
 Hi, I'm Alaina Sara James. I'm a BBA student specializing in Business Analytics.
 
-## Skills I'm Building
+## Skills 
 - SQL (joins, aggregations, window functions)
 - Excel (pivot tables, formulas)
 - Tableau / Power BI
